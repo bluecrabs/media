@@ -1,6 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hdone.tv/posters/1492623054.jpg" tvg-id="no_epg_cinema" group-title="Кино на заказ",Мумия
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",1
 http://ngenix.telek.xyz:9981/vod/info/1.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",2
+http://ngenix.telek.xyz:9981/vod/info/2.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",3
+http://ngenix.telek.xyz:9981/vod/info/3.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",4
+http://ngenix.telek.xyz:9981/vod/info/4.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",5
+http://ngenix.telek.xyz:9981/vod/info/5.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",6
+http://ngenix.telek.xyz:9981/vod/info/6.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",7
+http://ngenix.telek.xyz:9981/vod/info/7.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",8
+http://ngenix.telek.xyz:9981/vod/info/8.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",9
+http://ngenix.telek.xyz:9981/vod/info/9.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",10
+http://ngenix.telek.xyz:9981/vod/info/10.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",11
+http://ngenix.telek.xyz:9981/vod/info/11.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",12
+http://ngenix.telek.xyz:9981/vod/info/12.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",13
+http://ngenix.telek.xyz:9981/vod/info/13.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",14
+http://ngenix.telek.xyz:9981/vod/info/14.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",15
+http://ngenix.telek.xyz:9981/vod/info/15.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",16
+http://ngenix.telek.xyz:9981/vod/info/16.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",17
+http://ngenix.telek.xyz:9981/vod/info/17.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",18
+http://ngenix.telek.xyz:9981/vod/info/18.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",19
+http://ngenix.telek.xyz:9981/vod/info/19.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",20
+http://ngenix.telek.xyz:9981/vod/info/20.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",21
+http://ngenix.telek.xyz:9981/vod/info/21.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",22
+http://ngenix.telek.xyz:9981/vod/info/22.mp4/video.m3u8?token=Bm44RbK6af
+#EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/logo.jpg.jpg" tvg-id="no_epg_cinema" group-title="GreatOnline",23
+http://ngenix.telek.xyz:9981/vod/info/23.mp4/video.m3u8?token=Bm44RbK6af
 #EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/Movies.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Марс ТВ
 https://v2.catcast.tv/content/37033/index.m3u8
 #EXTINF:-1 tvg-logo="http://bluecrabstv.do.am/Movies.png" tvg-id="no_epg_cinema" group-title="Кинозалы",PZN STREAM
