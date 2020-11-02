@@ -907,6 +907,10 @@ https://h2.kinovhd.tv/server_2/kino/Agenty_A.N.K.L..4k.mp4/index-v1-a1.m3u8
 https://h2.kinovhd.tv/server_2/kino/Aladdine.4k.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1561411776.jpg" tvg-id="no_epg_cinema" group-title="4K",Аладдин (2019)
 https://h2.kinovhd.tv/server_2/kino/Aladdin_2019.4k.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://hdone.tv/posters/1561411776.jpg" tvg-id="no_epg_cinema" group-title="4K",Аладдин (2019) - original
+http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Aladdin_(2019)_4K_HDR_pixel_tv.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/2/2a/Antebellum_%28film%2C_2020%29.jpg" tvg-id="no_epg_cinema" group-title="4K",Антебеллум (2020) - original
+http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Antebellum(2020)_4K_HDR_pixel.mkv
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1582235654.jpg" tvg-id="no_epg_cinema" group-title="4K",Ангелы Чарли (2020)
 https://h3.kinovhd.tv/kino/Angely_Charli_2019.4k.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1569618174.jpg" tvg-id="no_epg_cinema" group-title="4K",Анна (2019)
