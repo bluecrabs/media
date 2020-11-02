@@ -919,7 +919,7 @@ http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Padenie_a
 http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Pinokkio(2019)4K_HDR_pixel.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/08/Underwater_%28poster%29.jpg" tvg-id="no_epg_cinema" group-title="4K",Под водой (2020) original
 http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Pod_vodoy(2020)_4K_HDR_pixel_tv.mkv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/1f/%D0%9F%D0%BE%D0%B4%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%B1%D0%B0%D0%BD%D0%B4%D1%8B%D0%9A%D0%B5%D0%BB%D0%BB%D0%B8.jpeg" tvg-id="no_epg_cinema" group-title="4K",Подлинная история банды Келли (2019) original
+#EXTINF:-1 tvg-logo="https://www.film.ru/sites/default/files/movies/posters/44932160-1173768.jpg" tvg-id="no_epg_cinema" group-title="4K",Подлинная история банды Келли (2019) original
 http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Podlinnaya_istoriya_bandy_Kelli(2019)_4K_HDR_pixel%20(1).mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8f/Aftermath_%282017%29.jpg" tvg-id="no_epg_cinema" group-title="4K",Последствия (2019) original
 http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Posledstviya_(2019)_4K_HDR_pixel_tv.mkv
@@ -1047,7 +1047,7 @@ http://5.153.191.184/video/kinozal(2020)/Zateryannye_vo_ldakh(2018)_4K_HDR_pixel
 http://5.153.191.184/video/kinozal(2020)/Zelenaya_kniga(2018)_4K_HDR_pixel.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/6c/Life_%28film%29.jpg" tvg-id="no_epg_cinema" group-title="4K",Живое (2017) original
 http://5.153.191.184/video/kinozal(2020)/Zhivoe(2017)_4K_HDR_pixel.mkv
-#EXTINF:-1 -logo="https://hdone.tv/posters/1494142589.jpg" tvg-id="no_epg_cinema" group-title="4K",Белоснежка и Охотник 2 (2016)
+#EXTINF:-1 -logo="https://upload.wikimedia.org/wikipedia/ru/2/2d/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%91%D0%B5%D0%BB%D0%BE%D1%81%D0%BD%D0%B5%D0%B6%D0%BA%D0%B0_%D0%B8_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%C2%BB.jpg" tvg-id="no_epg_cinema" group-title="4K",Белоснежка и Охотник 2 (2016)
 https://h1.kinovhd.tv/server_2/kino/Belosnezhka_i_Ohotnik_2.4k.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/9/9d/Bloodshot_poster.jpg" tvg-id="no_epg_cinema" group-title="4K",Бладшот (2020) - original
 http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Bloodshot.2020_4K_HDR_pixel_tv.mkv
