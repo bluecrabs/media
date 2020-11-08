@@ -103,6 +103,8 @@ https://upload.wikimedia.org/wikipedia/ru/thumb/8/82/%D0%90%D0%BF%D0%B3%D1%80%D0
 http://kinoteatr.kg/video2/Filmu/7Upgrade.2018.60fps.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/4/4f/Ast%C3%A9rix_et_Ob%C3%A9lix_contre_C%C3%A9sar.JPG" tvg-id="no_epg_cinema" group-title="60 FPS",Астерикс и Обеликс против цезаря
 http://kinoteatr.kg/video2/Filmu/7Asterix%20i%20obeliks%20-%20protiv%20czezarya.1999.60fps.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/4/4f/Ast%C3%A9rix_et_Ob%C3%A9lix_contre_C%C3%A9sar.JPG" tvg-id="no_epg_cinema" group-title="60 FPS",тест
+http://5.153.191.184/60fps/60_HDR_pixel/Bessmertnaya_gvardiya_(2020)_60fps.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/7a/Mission_cleopatre_poster.jpg/416px-Mission_cleopatre_poster.jpg" tvg-id="no_epg_cinema" group-title="60 FPS",Астерикс и Обеликс - Миссия Клеопатра
 http://kinoteatr.kg/video2/Filmu/7Asterix%20i%20obeliks%20-%20Missiya%20kleopatra.2002.60fps.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/16/Asterix_Poster.jpg" tvg-id="no_epg_cinema" group-title="60 FPS",Астерикс и Обеликс на олимпийских играх
