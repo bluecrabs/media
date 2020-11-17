@@ -1104,7 +1104,7 @@ https://h1.kinovhd.tv/server_3/kino/Pervomu_igroku_prigotovitsya.4k.mp4/index-v1
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1535643548.jpg" tvg-id="no_epg_cinema" group-title="4K",Престиж (2006)
 https://h1.kinovhd.tv/server/kino/Prestizh_2006.4k.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/69/Bad_Boys_for_Life_%28poster%29.jpg" tvg-id="no_epg_cinema" group-title="4K",Плохие парни навсегда (2020) - original
-http://5.153.191.184/4K_HDR/pixeltv%20_4K_HDR_pixel_server_windows/HDR/Bad.Boys.For.Life.2020_4K_HDR_pixel_tv.mkv
+http://nserv.host:5300/kinofeed/stream?id=472386&fileid=0
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1569648839.jpg" tvg-id="no_epg_cinema" group-title="4K",Проклятие Аннабель 3 (2019)
 https://h2.kinovhd.tv/server/kino/Proklyatie_Annabel_3.4k.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1541063322.jpg" tvg-id="no_epg_cinema" group-title="4K",Прометей (2012)
