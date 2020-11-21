@@ -1205,9 +1205,7 @@ https://h2.kinovhd.tv/server/kino/Punkt_naznacheniya_akvapark.,hd.,,mp4.urlset/m
 https://h3.kinovhd.tv/server/kino/Zaliv_tishiny.,hd.,,mp4.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1599485813.jpg" tvg-id="no_epg_cinema" group-title="Приключения",Завещания Теслы (2020)
 https://h3.kinovhd.tv/server/kino/Zaveshanie_Tesly.,hd.,,mp4.urlset/master.m3u8
-
-
-EXTINF:-1 tvg-logo="https://hdone.tv/posters/1601900302.jpg" tvg-id="no_epg_cinema" group-title="Триллеры",Не входи (2020)
+#EXTINF:-1 tvg-logo="https://hdone.tv/posters/1601900302.jpg" tvg-id="no_epg_cinema" group-title="Триллеры",Не входи (2020)
 https://h2.hdru.net/server/kino/Ne_vhodi.,hd.,,mp4.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1601900534.jpg" tvg-id="no_epg_cinema" group-title="Детективы",Энола Холмс (2020)
 https://h3.hdru.net/server/kino/Enola_Holms.,hd.,,mp4.urlset/master.m3u8
