@@ -1277,3 +1277,5 @@ https://h1.hdru.net/server/kino/Ne_ta_devushka.,hd.,,mp4.urlset/master.m3u8
 https://h3.hdru.net/server/kino/Gubka_Bob_v_begah.,hd.,,mp4.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://hdone.tv/posters/1603711349.jpg" tvg-id="no_epg_cinema" group-title="Мультфильмы",Путешествие на луну (2020)
 https://h3.hdru.net/server/kino/Puteshestvie_na_Lunu.,hd.,,mp4.urlset/master.m3u8
+#EXTINF:-1,теси
+http://vs6.cdnlast.com/share/kino-dom//51590ace2d08b2cd4e9cc82bcbafc321/uhd_mc/The.Owners.2020.WEB-DL.2160p.SDR_2160.mp4
